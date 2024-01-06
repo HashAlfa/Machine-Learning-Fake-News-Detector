@@ -10,5 +10,4 @@ IDF (Inverse Document Frequency): This part is a bit trickier. It reduces the im
 
 
 What is a PassiveAggressiveClassifier?
-
 A Passive Aggressive Classifier is an online learning algorithm that reacts passively when it predicts correctly and becomes aggressive when it makes a mistake. It updates itself to correct errors without converging like many other algorithms. Its goal is to make minimal changes to the weight vector while fixing mistakes in predictions.
